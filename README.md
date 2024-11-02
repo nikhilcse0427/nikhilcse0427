@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Nikhil Verma<br>
+Hi there! 👋 I'm Nikhil Verma
 👀 Coding Enthusiast passionate about building impactful web applications.
 🌱 Currently Learning: Deepening my knowledge in Data Structures & Algorithms (DSA) and Web Development.
 💻 Tech Stack:
