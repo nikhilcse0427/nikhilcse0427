@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **RoadSafetyGuard - WebApplication**
 
-- 🌱 I’m currently **📚 Mastering Data Structures & Algorithms to sharpen problem-solving**
+- 🌱 **📚 Mastering Data Structures & Algorithms to sharpen problem-solving**
 
 
 - 👨‍💻 All of my projects are available at [Github](Github)
