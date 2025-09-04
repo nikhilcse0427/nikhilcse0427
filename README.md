@@ -6,11 +6,10 @@
 
 <p align="left"> <a href="https://twitter.com/nikhilverma0427" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilverma0427?logo=twitter&style=for-the-badge" alt="nikhilverma0427" /></a> </p>
 
-- 🔭 I’m currently working on **BackenedDevelopmentSeries**
+- 🔭 I’m currently working on **RoadSafetyGuard - WebApplication**
 
-- 🌱 I’m currently learning **DSA and BackenedDevelopment**
+- 🌱 I’m currently learning **⚡ Becoming proficient in DSA for stronger problem-solving skills.**
 
-- 👯 I’m looking to collaborate on **BackenedDevelopmentSeries**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
