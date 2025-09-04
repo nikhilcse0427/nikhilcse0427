@@ -1,7 +1,3 @@
-
-[![Banner](https://cubettech.com/_next/image/?url=https:%2F%2Fcubettech.com%2Fwp-content%2Fuploads%2F2021%2F05%2FWEB-Full-Stack-Developer.jpg&w=3840&q=75)](https://github.com/nikhilcse0427/nikhilcse0427/edit/main/README.md#hi--im-nikhil-verma)
-
-
 <h1 align="center">Hi 👋, I'm Nikhil Verma</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
